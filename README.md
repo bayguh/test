@@ -1,4 +1,4 @@
 HISTORY
 =======
 
-- 1.0.1: Echo "text area"
+- 1.0.2: Echo "upload image"
